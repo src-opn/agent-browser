@@ -10,9 +10,15 @@
     {
       "name": "agent-browser",
       "description": "Automates browser interactions for web testing, form filling, screenshots, and data extraction",
-      "source": "./",
+      "source": "./skills",
       "strict": false,
-      "skills": ["./skills/agent-browser"],
+      "category": "development"
+    },
+    {
+      "name": "omar-browser-plugin",
+      "description": "omar's testing plugin",
+      "source": "./omar",
+      "strict": false,
       "category": "development"
     }
   ]
